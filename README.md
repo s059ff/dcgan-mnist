@@ -7,6 +7,6 @@ MNISTデータセットを使用したDCGANによる手書き文字生成のテ�
 
 ## 実行結果
 訓練画像  
-![](https://github.com/s059ff/cyclegan-chars74k/blob/master/sample/real.png)  
+![](https://github.com/s059ff/dcgan-mnist/blob/master/sample/real.png)  
 Generatorが生成した画像(300エポック)  
-![](https://github.com/s059ff/cyclegan-chars74k/blob/master/sample/fake.png)  
+![](https://github.com/s059ff/dcgan-mnist/blob/master/sample/fake.png)  
