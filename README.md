@@ -1,4 +1,4 @@
-# cyclegan-chars74k
+# dcgan-mnist
 MNISTデータセットを使用したDCGANによる手書き文字生成のテストです。
 
 ## 実行方法
