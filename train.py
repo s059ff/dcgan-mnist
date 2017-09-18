@@ -92,6 +92,9 @@ def main():
             chainer.serializers.save_hdf5("dis.h5", dis)
             os.chdir('..')
 
+        # (Random shuffle samples)
+        train = np.random.permutation(train)
+
         total_loss_dis = 0.0
         total_loss_gen = 0.0
 
